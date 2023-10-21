@@ -1,16 +1,29 @@
 ### Hi there 👋
+ Eu sou o Aldair Guedes:blush:, sou um programador Front End, atualmente estou aprendendo e criando projetos com: 
 
-<!--
-**Silvaguedes/Silvaguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<br> 
+<br>
+   No momento estou iniciando o aprendizado em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  :yum: :clock130: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac"/>
+  
+   :yum:  :clock1130: <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF"/>
+   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaguedes&show_icons=true&theme=transparent)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaguedes)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
