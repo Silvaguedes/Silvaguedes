@@ -3,11 +3,12 @@
 
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> 
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> 
 
 <img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"/>
-
-
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000  "/>
+<img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
 <br> 
 <br>
    No momento estou iniciando o aprendizado em:
