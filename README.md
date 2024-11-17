@@ -1,7 +1,7 @@
 ### Hi there 👋
  Eu sou o Aldair Guedes, sou um programador FullStack, atualmente estou aprendendo e criando projetos com: 
 
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)"/> 
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> 
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 
