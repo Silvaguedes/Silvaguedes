@@ -1,23 +1,15 @@
 ### Hi there 👋
- Eu sou o Aldair Guedes, sou um programador FullStack, atualmente estou aprendendo e criando projetos com: 
-<STYLE="displey: flex">
+ Eu sou o Aldair Guedes, sou um programador FullStack, atualmente estou criando projetos com:
+ 
+ flex
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> 
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> 
 <img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/>
 <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000  "/>
 <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
- </STYLE>
-<br> 
-<br>
-   No momento estou iniciando o aprendizado em:
 
-  :yum: :clock130: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac"/>
-  
-   :yum:  :clock1130: <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF"/>
-   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvaguedes&show_icons=true&theme=transparent)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvaguedes)](https://github.com/anuraghazra/github-readme-stats)
 
